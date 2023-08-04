@@ -1,3 +1,4 @@
+//Edgar Vicente Rodriguez Alfonso
 import java.util.Scanner;
 
 /*Diseñe un programa en java que muestre un menú al usuario con las
